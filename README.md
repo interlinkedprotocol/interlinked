@@ -15,7 +15,7 @@ The protocol consists of three interdependent core layers:
 2. Protocol layer
 3. Network layer
 
-The article [Frequently Asked Questions](https://medium.com/interlinked-protocol/the-interlinked-protocol-most-frequently-asked-questions-1-ab1bad820875) gives a first insight to the protocol design.Further information will be published soon.
+The article [Frequently Asked Questions](https://medium.com/interlinked-protocol/the-interlinked-protocol-most-frequently-asked-questions-1-ab1bad820875) gives a first insight to the protocol design. Further information will be published soon.
 
 
 
